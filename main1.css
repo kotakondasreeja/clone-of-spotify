@@ -1,0 +1,54 @@
+@import url(./main2.css);
+/* #page2{
+    margin: 0%;
+    padding: 0%;
+    border: none;
+    box-sizing: border-box;
+    
+} */
+#nav1{
+  
+    height: 80px;
+    padding:40px;
+    border: none;
+    align-items: center;
+    position: absolute;
+    left: 550px;
+    top: 700px;
+    font-size: 28px;
+    font-weight: 500;
+    font-family: var(--font-family, CircularSp, CircularSp-Arab, CircularSp-Hebr, CircularSp-Cyrl, CircularSp-Grek, CircularSp-Deva, var(--fallback-fonts, sans-serif)), Helvetica, Arial, sans-serif;
+    
+  
+} 
+#list1{
+ /* border: 2px solid;  */
+    display: flex;
+    list-style: none;
+   padding: 170px;
+   position: relative;
+   left: 100px;
+   top: 70px;
+   align-items: center;
+    justify-content: space-evenly;
+    
+    
+}
+#demo1 h3{
+    font-size: 21px;
+    font-family: var(--font-family, CircularSp, CircularSp-Arab, CircularSp-Hebr, CircularSp-Cyrl, CircularSp-Grek, CircularSp-Deva, var(--fallback-fonts, sans-serif)), Helvetica, Arial, sans-serif;
+}
+
+#one,#two,#three,#four{
+    
+    width: 100%;
+    margin: 16px,0px;
+}
+
+
+
+
+
+    
+
+

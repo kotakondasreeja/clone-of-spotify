@@ -1,0 +1,32 @@
+@import url(./main3.css);
+#page3{
+    /* border: 2px solid; */
+    position: relative;
+    height: 85vh;
+    background-image: linear-gradient(-45deg, rgb(108, 14, 224) -5%, rgb(240, 55, 166));
+}
+
+.h1{
+position: absolute;
+top: 300px;
+left: 680px;
+color: white;
+    font-size: 32px;
+    font-weight: 900;
+    letter-spacing: -0.02em;
+    line-height: 1.2;
+    padding: 0px 15px 80px;
+
+}
+.h2{
+    position: absolute;
+    top: 340px;
+left: 580px;
+color: white;
+    font-size: 32px;
+    font-weight: 900;
+    letter-spacing: -0.02em;
+    line-height: 1.2;
+    padding: 0px 15px 80px;
+  
+}
